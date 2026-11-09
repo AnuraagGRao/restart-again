@@ -1,0 +1,16 @@
+{
+  "name": "restart-again",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Re:Start A:Gain? — 2D Precision Masocore Platformer inspired by Kaizo Trap",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.0",
+    "vite": "^6.2.0"
+  }
+}
+
